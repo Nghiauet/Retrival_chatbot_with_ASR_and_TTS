@@ -2,3 +2,4 @@ openai-cookbook/*
 .env
 .venv
 *.wav
+nghia-thesis-37a3f9492b54.json
